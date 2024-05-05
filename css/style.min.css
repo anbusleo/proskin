@@ -732,7 +732,7 @@ section {
 
 .pregunta {
 	margin: 10px;
-	max-width: 500px;
+	max-width: 80%;
 	border: 1px solid gray;
 	border-radius: 10px;
 	padding: 1rem;
